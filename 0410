@@ -1,0 +1,440 @@
+       {
+            // 쥐띠 (Rat) - Water
+            "rat": {
+                "years": [1948, 1960, 1972, 1984, 1996, 2008],
+                "data": {
+                    "1948": { // Earth controls Water
+                        "total": 69,
+                        "categories": {"finance": 70, "emotion": 60, "energy": 75, "success": 70},
+                        "strategy": {"time": "08:00~10:00", "direction": "북 0°", "color": "#A8E6CF", "advice": "아침에 예산을 점검해 불필요한 지출을 막으세요."},
+                        "fortuneText": "4월 1일, 토(土) 기운이 강하게 흐르며 쥐띠의 수(水)를 억제해 재물과 성공 운이 다소 주춤합니다. 새 봄옷을 사려던 계획은 잠시 미루고, 집에서 커피 한 잔 즐기며 예산을 정리하는 게 나아요. 감정은 불안할 수 있으니, 친구와의 가벼운 장난 전화로 기분을 풀어보세요—April Fool’s Day니까요! 에너지는 평소보다 낮지만, 오전에 집안일을 끝내면 오후가 한결 가볍습니다. 새 계절의 시작이니, 작은 실수를 웃어넘기는 여유를 가져보세요. **오늘의 한 줄: 장난스러운 문자 하나가 오해를 부를 수 있으니, 톤을 잘 맞춰라.**"
+                    },
+                    "1960": { // Metal produces Water
+                        "total": 89,
+                        "categories": {"finance": 90, "emotion": 80, "energy": 95, "success": 90},
+                        "strategy": {"time": "10:00~12:00", "direction": "북동 45°", "color": "#FFD3B6", "advice": "점심 전에 투자 아이디어를 메모하세요."},
+                        "fortuneText": "금(金)이 수(水)를 돕는 날이라 4월 1일은 쥐띠에게 행운의 봄바람이 불어옵니다. 재물 운이 최고조라, 주식 앱을 열거나 봄 세일에서 현명한 소비를 노려보세요—단, 장난 같은 가짜 할인은 피해야겠죠? 감정은 따뜻하고, 에너지는 넘쳐 동네 산책 중 좋은 아이디어가 떠오를 거예요. 성공 운도 따라주니, 직장에서 농담 섞인 제안이 통할 때입니다. April Fool’s Day에 어울리게 유쾌한 하루를 보내세요! **오늘의 한 줄: 동료의 장난에 웃으며 응하면 인맥이 넓어진다.**"
+                    },
+                    "1972": { // Water same as Water
+                        "total": 79,
+                        "categories": {"finance": 85, "emotion": 65, "energy": 80, "success": 85},
+                        "strategy": {"time": "12:00~14:00", "direction": "동 90°", "color": "#D4A5A5", "advice": "점심때 친구와 약속을 잡아 기운을 북돋우세요."},
+                        "fortuneText": "수(水) 기운이 중첩된 4월 1일, 쥐띠의 재물과 성공 운이 봄 햇살처럼 빛납니다. 점심값을 아끼려다 뜻밖의 할인 쿠폰을 발견할지도! 감정은 물결치듯 흔들릴 수 있으니, April Fool’s 장난에 너무 진지하게 반응 말고 웃어넘기세요. 에너지는 안정적이어서, 오후에 새 취미를 시작하거나 봄맞이 정리정돈을 추천합니다. 직장에서 작은 승리도 기대되니, 자신감 있게 움직이세요. **오늘의 한 줄: 점심 메뉴를 두고 고민 말고, 새 맛집을 탐험하라.**"
+                    },
+                    "1984": { // Water produces Wood
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 70, "energy": 80, "success": 85},
+                        "strategy": {"time": "14:00~16:00", "direction": "남동 135°", "color": "#98D8D8", "advice": "오후에 창의적인 계획을 세워보세요."},
+                        "fortuneText": "수(水)가 목(木)을 키우는 4월 1일, 쥐띠는 성공 운이 싹트는 봄날을 맞습니다. 오후에 동료와 브레인스토밍하면 기발한 아이디어가 떠오를 거예요—April Fool’s 장난으로 시작한 아이디어가 진짜가 될 수도! 재물 운은 무난해, 봄나들이 비용을 잘 조정하세요. 감정은 살짝 흔들리니, 따뜻한 차로 마음을 달래고, 에너지는 활기차니 산책 중 꽃구경을 즐기세요. **오늘의 한 줄: 농담처럼 던진 말이 뜻밖의 기회를 열어줄 수 있다.**"
+                    },
+                    "1996": { // Water controls Fire
+                        "total": 79,
+                        "categories": {"finance": 85, "emotion": 65, "energy": 85, "success": 80},
+                        "strategy": {"time": "16:00~18:00", "direction": "남 180°", "color": "#F7DC6F", "advice": "저녁에 재무 목표를 점검해 안정감을 높이세요."},
+                        "fortuneText": "수(水)가 화(火)를 다스리는 4월 1일, 재물 운이 쥐띠를 웃게 합니다. 저녁에 은행 앱을 확인하면 작은 입금 소식이 기다릴지도—봄 쇼핑 욕구를 채우기 딱 좋아요! 감정은 불안정할 수 있으니, April Fool’s 장난에 휘둘리지 말고 중심을 잡으세요. 에너지는 넘쳐, 퇴근 후 봄바람 맞으며 조깅 어떠신가요? 성공 운도 따라주니, 작은 도전을 시도해보세요. **오늘의 한 줄: 저녁에 친구와 나눈 농담이 마음을 가볍게 한다.**"
+                    },
+                    "2008": { // Earth controls Water
+                        "total": 69,
+                        "categories": {"finance": 70, "emotion": 60, "energy": 75, "success": 70},
+                        "strategy": {"time": "18:00~20:00", "direction": "남서 225°", "color": "#C39BD3", "advice": "저녁에 가족과 시간을 보내 감정 운을 충전하세요."},
+                        "fortuneText": "토(土)가 수(水)를 억누르는 4월 1일, 쥐띠는 약간의 도전에 직면합니다. 재물 운이 낮아, 봄맞이 대청소 중 나온 중고 물품을 팔아볼까 고민되네요. 감정도 흔들리니, April Fool’s 장난이 진짜로 느껴질 수 있으니 주의하세요. 에너지는 괜찮아 저녁 산책으로 기분 전환을, 성공 운은 평이하니 큰 결정보단現状유지에 집중하세요. **오늘의 한 줄: 저녁 식탁에서 가족의 웃음이 하루를 구한다.**"
+                    }
+                }
+            },
+            // 소띠 (Ox) - Earth
+            "ox": {
+                "years": [1949, 1961, 1973, 1985, 1997],
+                "data": {
+                    "1949": { // Earth same as Earth
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 60, "energy": 85, "success": 90},
+                        "strategy": {"time": "08:00~10:00", "direction": "서 270°", "color": "#F0B27A", "advice": "아침에 목표를 정리해 성공 운을 다지세요."},
+                        "fortuneText": "토(土)가 중첩된 4월 1일, 소띠는 성공 운이 봄꽃처럼 피어납니다. 아침에 할 일 목록을 쓰면 하루가 순조로워요—April Fool’s 장난도 계획적으로 즐겨보세요! 재물 운은 안정적이니, 봄나들이 예산을 짜보는 것도 좋겠네요. 감정은 살짝 가라앉아, 따뜻한 차 한 잔이 필요할 때입니다. 에너지는 충만하니, 집 근처 공원에서 새소리 들으며 기운을 채우세요. **오늘의 한 줄: 아침에 거울 보고 웃으면 하루가 밝아진다.**"
+                    },
+                    "1961": { // Earth produces Metal
+                        "total": 79,
+                        "categories": {"finance": 75, "emotion": 65, "energy": 85, "success": 90},
+                        "strategy": {"time": "10:00~12:00", "direction": "북서 315°", "color": "#7DCEA0", "advice": "오전에 동료와 협력해 성공을 노리세요."},
+                        "fortuneText": "토(土)가 금(金)을 낳는 4월 1일, 소띠의 성공 운이 빛을 발합니다. 오전에 팀 회의에서 아이디어를 내면 인정받을 가능성이 커요—April Fool’s 농담도 살짝 곁들이면 분위기 업! 재물 운은 평이하니, 봄 세일 유혹에 흔들리지 말고 계획적으로 소비하세요. 감정은 미묘하게 흔들릴 수 있어, 점심때 친구와 통화로 안정을 찾으세요. 에너지는 좋아요! **오늘의 한 줄: 동료의 농담에 맞장구치면 협력이 쉬워진다.**"
+                    },
+                    "1973": { // Earth controls Water
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 60, "energy": 90, "success": 85},
+                        "strategy": {"time": "12:00~14:00", "direction": "남 180°", "color": "#BB8FCE", "advice": "점심때 재무 상태를 점검해 안정감을 가지세요."},
+                        "fortuneText": "토(土)가 수(水)를 다스리는 4월 1일, 소띠는 재물과 에너지 운이 돋보입니다. 점심때 은행 앱 열어 잔고 확인하면 기분 좋을 소식이 있을지도—봄옷 한 벌 사도 괜찮아요! 감정은 불안할 수 있으니, April Fool’s 장난에 너무 몰입 말고 웃으세요. 에너지가 넘쳐, 오후에 집 정리를 시작하면 성취감이 큽니다. 성공 운도 따라주니 꾸준히 하던 일에 집중하세요. **오늘의 한 줄: 점심 후 산책하며 봄바람에 고민을 날려라.**"
+                    },
+                    "1985": { // Wood controls Earth
+                        "total": 69,
+                        "categories": {"finance": 65, "emotion": 55, "energy": 80, "success": 75},
+                        "strategy": {"time": "14:00~16:00", "direction": "동 90°", "color": "#5DADE2", "advice": "오후에 휴식을 취하며 에너지를 충전하세요."},
+                        "fortuneText": "목(木)이 토(土)를 억제하는 4월 1일, 소띠는 약간의 도전을 맞습니다. 재물 운이 낮아, 봄맞이 쇼핑은 다음으로 미루고 지갑을 지키세요. 감정도 흔들리니, April Fool’s 장난이 진짜처럼 느껴질까 걱정 말고 친구와 수다로 풀어보세요. 에너지는 괜찮아, 오후에 공원 산책으로 기분 전환을 추천합니다. 성공 운은 평이하니 큰 변화보단 현재를 유지하세요. **오늘의 한 줄: 오후의 따뜻한 햇살이 마음을 위로해줄 거다.**"
+                    },
+                    "1997": { // Fire produces Earth
+                        "total": 89,
+                        "categories": {"finance": 85, "emotion": 75, "energy": 100, "success": 95},
+                        "strategy": {"time": "16:00~18:00", "direction": "남동 135°", "color": "#F1948A", "advice": "저녁에 큰 계획을 세워 성공 운을 잡으세요."},
+                        "fortuneText": "화(火)가 토(土)를 키우는 4월 1일, 소띠는 에너지와 성공 운이 봄날처럼 활짝 핍니다. 저녁에 새 프로젝트 계획을 세우면 큰 성과로 이어질 거예요—April Fool’s 아이디어도 진짜로 추진해볼까? 재물 운도 좋아, 봄 세일에서 득템 가능성이 높아요. 감정은 안정적이니, 가족과 웃으며 하루를 마무리하세요. 에너지가 넘쳐 퇴근 후 운동도 추천! **오늘의 한 줄: 저녁에 친구와의 통화가 새로운 영감을 준다.**"
+                    }
+                }
+            },
+            // 호랑이띠 (Tiger) - Wood
+            "tiger": {
+                "years": [1950, 1962, 1974, 1986, 1998],
+                "data": {
+                    "1950": { // Metal controls Wood
+                        "total": 69,
+                        "categories": {"finance": 60, "emotion": 65, "energy": 75, "success": 75},
+                        "strategy": {"time": "08:00~10:00", "direction": "북서 315°", "color": "#ABEBC6", "advice": "아침에 감정을 정리하며 하루를 준비하세요."},
+                        "fortuneText": "금(金)이 목(木)을 억누르는 4월 1일, 호랑이띠는 재물 운이 살짝 주춤합니다. 봄맞이 지출 계획은 다시 점검하고, 아침에 차 한 잔 마시며 마음을 가다듬으세요. 감정은 미묘하게 흔들릴 수 있어, April Fool’s 장난에 과민 반응 말고 웃으세요. 에너지는 무난하니, 가벼운 스트레칭으로 기운을 북돋우고, 성공 운은 꾸준히 유지되니 작은 일부터 차근히 처리하세요. **오늘의 한 줄: 아침 햇살 속에서 하루의 평화를 찾아라.**"
+                    },
+                    "1962": { // Water produces Wood
+                        "total": 79,
+                        "categories": {"finance": 70, "emotion": 75, "energy": 85, "success": 85},
+                        "strategy": {"time": "10:00~12:00", "direction": "남서 225°", "color": "#F9E79F", "advice": "오전에 새로운 아이디어를 시도해 성공을 노리세요."},
+                        "fortuneText": "수(水)가 목(木)을 돕는 4월 1일, 호랑이띠는 성공과 에너지 운이 봄처럼 싱그럽습니다. 오전에 취미나 직업 관련 아이디어를 메모하면 큰 결실로 이어질 거예요—April Fool’s 장난도 창의력 발휘의 기회! 재물 운은 평이하니, 봄꽃 구경 비용만 챙기세요. 감정은 따뜻해, 친구와의 대화가 즐겁습니다. 에너지가 넘쳐요! **오늘의 한 줄: 오전의 농담이 뜻밖의 기쁨을 가져온다.**"
+                    },
+                    "1974": { // Wood same as Wood
+                        "total": 79,
+                        "categories": {"finance": 75, "emotion": 70, "energy": 75, "success": 80},
+                        "strategy": {"time": "12:00~14:00", "direction": "북 0°", "color": "#7FB3D5", "advice": "점심때 동료와 계획을 세워 성공 운을 높이세요."},
+                        "fortuneText": "목(木)이 강한 4월 1일, 호랑이띠는 성공 운이 새싹처럼 돋아납니다. 점심때 동료와 농담 나누다 좋은 아이디어가 떠오를 거예요—April Fool’s 분위기 속에서요! 재물 운은 무난하니, 봄맞이 소품 구입은 신중히. 감정은 살짝 불안할 수 있어, 점심 후 산책으로 기분을 풀고, 에너지도 안정적이니 꾸준히 움직이세요. **오늘의 한 줄: 점심 메뉴 선택이 하루의 분위기를 바꾼다.**"
+                    },
+                    "1986": { // Fire produces Wood
+                        "total": 89,
+                        "categories": {"finance": 80, "emotion": 85, "energy": 90, "success": 95},
+                        "strategy": {"time": "14:00~16:00", "direction": "동 90°", "color": "#E59866", "advice": "오후에 과감한 결정을 내려 성공을 잡으세요."},
+                        "fortuneText": "화(火)가 목(木)을 키우는 4월 1일, 호랑이띠는 성공과 에너지 운이 봄불꽃처럼 타오릅니다. 오후에 직장에서 과감한 제안을 하면 큰 성과로 이어질 거예요—April Fool’s 장난도 자신감 있게! 재물 운은 좋아, 봄 세일에서 득템 가능성이 높아요. 감정도 따뜻해, 연인과의 데이트가 즐겁습니다. 에너지가 넘쳐요! **오늘의 한 줄: 오후의 대담한 웃음이 행운을 부른다.**"
+                    },
+                    "1998": { // Earth controls Wood
+                        "total": 69,
+                        "categories": {"finance": 65, "emotion": 70, "energy": 80, "success": 75},
+                        "strategy": {"time": "16:00~18:00", "direction": "남 180°", "color": "#F5CBA7", "advice": "저녁에 휴식을 취하며 에너지를 아끼세요."},
+                        "fortuneText": "토(土)가 목(木)을 억제하는 4월 1일, 호랑이띠는 약간의 저항을 느낍니다. 재물 운이 낮아, 봄맞이 쇼핑은 잠시 보류하고 저축에 집중하세요. 감정은 무난하지만, April Fool’s 장난에 살짝 짜증날 수도—웃어넘기세요! 에너지는 좋아, 저녁에 공원에서 꽃구경하며 기분 전환을 추천합니다. 성공 운은 평이하니 큰 도전은 피하세요. **오늘의 한 줄: 저녁의 따뜻한 차 한 잔이 하루를 달랜다.**"
+                    }
+                }
+            },
+            // 토끼띠 (Rabbit) - Wood
+            "rabbit": {
+                "years": [1951, 1963, 1975, 1987, 1999],
+                "data": {
+                    "1951": { // Metal controls Wood
+                        "total": 69,
+                        "categories": {"finance": 60, "emotion": 80, "energy": 65, "success": 70},
+                        "strategy": {"time": "08:00~10:00", "direction": "남동 135°", "color": "#E6B0AA", "advice": "아침에 감정을 다스려 하루를 시작하세요."},
+                        "fortuneText": "금(金)이 목(木)을 억누르는 4월 1일, 토끼띠는 재물 운이 살짝 약합니다. 봄옷 쇼핑은 미루고, 아침에 따뜻한 차로 마음을 진정시키세요. 감정은 따뜻해, 가족과의 대화가 위로가 됩니다—April Fool’s 장난도 부드럽게 즐겨요! 에너지는 낮아, 오전에 집안일을 천천히 처리하고, 성공 운은 꾸준히 유지되니 작은 목표에 집중하세요. **오늘의 한 줄: 아침의 조용한 시간이 하루를 안정시킨다.**"
+                    },
+                    "1963": { // Water produces Wood
+                        "total": 79,
+                        "categories": {"finance": 65, "emotion": 90, "energy": 75, "success": 80},
+                        "strategy": {"time": "10:00~12:00", "direction": "서 270°", "color": "#F5B7B1", "advice": "오전에 친구와 대화로 감정 운을 높이세요."},
+                        "fortuneText": "수(水)가 목(木)을 키우는 4월 1일, 토끼띠는 감정 운이 봄꽃처럼 만개합니다. 오전에 친구와 통화하며 April Fool’s 장난을 나누면 기분이 업돼요! 재물 운은 평이하니, 봄나들이 비용만 준비하세요. 에너지는 무난해, 가벼운 산책으로 기운을 채우고, 성공 운도 좋아 직장에서 작은 성과를 기대할 수 있습니다. **오늘의 한 줄: 오전의 웃음소리가 하루를 밝게 한다.**"
+                    },
+                    "1975": { // Wood same as Wood
+                        "total": 79,
+                        "categories": {"finance": 70, "emotion": 80, "energy": 65, "success": 75},
+                        "strategy": {"time": "12:00~14:00", "direction": "북동 45°", "color": "#EC7063", "advice": "점심때 새로운 계획을 세워 성공을 준비하세요."},
+                        "fortuneText": "목(木)이 강한 4월 1일, 토끼띠는 감정 운이 따뜻한 봄날을 만듭니다. 점심때 동료와 농담 나누며 새 계획을 세우면 성공 운이 따라와요—April Fool’s 아이디어도 괜찮네요! 재물 운은 무난하니, 봄 소품 구입은 신중히. 에너지는 살짝 낮아, 오후에 휴식 시간을 가지세요. 성공 운은 꾸준히 진행 중입니다. **오늘의 한 줄: 점심 후의 농담이 팀워크를 단단히 한다.**"
+                    },
+                    "1987": { // Fire produces Wood
+                        "total": 89,
+                        "categories": {"finance": 75, "emotion": 95, "energy": 80, "success": 85},
+                        "strategy": {"time": "14:00~16:00", "direction": "남 180°", "color": "#AF7AC5", "advice": "오후에 사랑하는 이와 시간을 보내 감정 운을 충전하세요."},
+                        "fortuneText": "화(火)가 목(木)을 돕는 4월 1일, 토끼띠는 감정 운이 봄 햇살처럼 빛납니다. 오후에 연인과 공원 데이트하면 행복이 두 배—April Fool’s 장난도 로맨틱하게! 재물 운은 좋아, 봄 세일에서 소소한 득템이 가능해요. 에너지는 안정적이니, 산책하며 꽃구경을 즐기고, 성공 운도 따라주니 작은 도전을 시도하세요. **오늘의 한 줄: 오후의 따스한 대화가 마음을 풍요롭게 한다.**"
+                    },
+                    "1999": { // Earth controls Wood
+                        "total": 69,
+                        "categories": {"finance": 60, "emotion": 85, "energy": 70, "success": 65},
+                        "strategy": {"time": "16:00~18:00", "direction": "동 90°", "color": "#A8E6CF", "advice": "저녁에 가족과 시간을 보내 감정 운을 지키세요."},
+                        "fortuneText": "토(土)가 목(木)을 억제하는 4월 1일, 토끼띠는 재물과 성공 운이 약간 약합니다. 봄맞이 지출은 줄이고, 저녁에 가족과 함께하는 시간을 즐기세요. 감정은 따뜻해, April Fool’s 장난으로 집안이 웃음바다 될 거예요! 에너지는 무난하니, 가벼운 집 정리로 기분을 새롭게 하고, 큰 변화는 피하세요. **오늘의 한 줄: 저녁 식사 중 웃음이 하루의 피로를 풀어준다.**"
+                    }
+                }
+            },
+            // 용띠 (Dragon) - Earth
+            "dragon": {
+                "years": [1952, 1964, 1976, 1988, 2000],
+                "data": {
+                    "1952": { // Water produces Wood (Earth unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 85, "emotion": 65, "energy": 80, "success": 85},
+                        "strategy": {"time": "08:00~10:00", "direction": "남서 225°", "color": "#FFD3B6", "advice": "아침에 재무 계획을 세워 안정감을 가지세요."},
+                        "fortuneText": "4월 1일, 용띠는 재물과 성공 운이 봄처럼 안정적입니다. 아침에 은행 앱 확인하면 작은 입금 소식이 기쁨을 줄 거예요—봄 세일 쇼핑도 괜찮아요! 감정은 살짝 흔들릴 수 있어, April Fool’s 장난에 과민 반응 말고 웃으세요. 에너지는 좋아, 오전에 집안일을 끝내면 오후가 여유롭습니다. 성공 운도 따라주니 꾸준히 하던 일을 마무리하세요. **오늘의 한 줄: 아침의 차분한 시작이 하루를 빛나게 한다.**"
+                    },
+                    "1964": { // Wood controls Earth
+                        "total": 79,
+                        "categories": {"finance": 75, "emotion": 60, "energy": 75, "success": 90},
+                        "strategy": {"time": "10:00~12:00", "direction": "북 0°", "color": "#D4A5A5", "advice": "오전에 목표를 재정비해 성공 운을 높이세요."},
+                        "fortuneText": "목(木)이 토(土)를 억제하는 4월 1일, 용띠는 성공 운이 돋보입니다. 오전에 새 계획을 세우면 큰 성과로 이어질 거예요—April Fool’s 아이디어도 진지하게 검토해보세요! 재물 운은 평이하니, 봄맞이 지출은 신중히. 감정은 불안할 수 있어, 친구와의 대화로 기분을 풀고, 에너지는 무난해 가벼운 활동을 추천합니다. **오늘의 한 줄: 오전의 농담이 새로운 길을 열어줄 수 있다.**"
+                    },
+                    "1976": { // Fire produces Earth
+                        "total": 89,
+                        "categories": {"finance": 95, "emotion": 75, "energy": 85, "success": 95},
+                        "strategy": {"time": "12:00~14:00", "direction": "동 90°", "color": "#98D8D8", "advice": "점심때 과감한 결정을 내려 성공을 잡으세요."},
+                        "fortuneText": "화(火)가 토(土)를 키우는 4월 1일, 용띠는 재물과 성공 운이 봄불꽃처럼 활활 타오릅니다. 점심때 투자나 프로젝트 결정을 하면 큰 이득을 볼 거예요—April Fool’s 장난도 자신감 있게! 감정은 안정적이니, 동료와 웃으며 시간을 보내고, 에너지도 좋아 오후에 활동적으로 움직이세요. 봄 세일 득템 가능성도 높아요! **오늘의 한 줄: 점심 후의 대담한 선택이 행운을 부른다.**"
+                    },
+                    "1988": { // Earth same as Earth
+                        "total": 79,
+                        "categories": {"finance": 90, "emotion": 65, "energy": 75, "success": 95},
+                        "strategy": {"time": "14:00~16:00", "direction": "남 180°", "color": "#F7DC6F", "advice": "오후에 직장 일을 마무리해 성공 운을 극대화하세요."},
+                        "fortuneText": "토(土)가 강한 4월 1일, 용띠는 재물과 성공 운이 안정적으로 빛납니다. 오후에 업무를 정리하면 인정받을 기회가 커요—April Fool’s 농담도 살짝 곁들이세요! 재물 운이 좋아, 봄맞이 소품을 사도 괜찮아요. 감정은 살짝 가라앉아, 따뜻한 차로 기분을 풀고, 에너지는 무난하니 꾸준히 움직이세요. **오늘의 한 줄: 오후의 노력으로 하루가 빛을 발한다.**"
+                    },
+                    "2000": { // Metal produces Water (Earth unaffected directly)
+                        "total": 89,
+                        "categories": {"finance": 90, "emotion": 80, "energy": 85, "success": 95},
+                        "strategy": {"time": "16:00~18:00", "direction": "서 270°", "color": "#C39BD3", "advice": "저녁에 가족과 시간을 보내 감정 운을 높이세요."},
+                        "fortuneText": "4월 1일, 용띠는 재물과 성공 운이 봄처럼 화려합니다. 저녁에 가족과 농담 나누며 April Fool’s 분위기를 즐기면 감정도 따뜻해져요! 재물 운이 좋아, 봄 세일에서 큰 득템 가능성이 높아요. 에너지는 안정적이니, 퇴근 후 산책으로 기운을 채우고, 성공 운도 최고조라 직장에서 빛을 발할 때입니다. **오늘의 한 줄: 저녁의 웃음이 하루를 완벽하게 마무리한다.**"
+                    }
+                }
+            },
+            // 뱀띠 (Snake) - Fire
+            "snake": {
+                "years": [1953, 1965, 1977, 1989, 2001],
+                "data": {
+                    "1953": { // Water controls Fire
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 75, "energy": 65, "success": 85},
+                        "strategy": {"time": "08:00~10:00", "direction": "북동 45°", "color": "#F0B27A", "advice": "아침에 재무 상태를 점검해 안정감을 가지세요."},
+                        "fortuneText": "수(水)가 화(火)를 억제하는 4월 1일, 뱀띠는 재물과 성공 운이 무난합니다. 아침에 지출 내역을 확인하면 봄 쇼핑 계획이 한결 쉬워져요—April Fool’s 장난 같은 가짜 할인은 피하세요! 감정은 따뜻하지만, 에너지가 낮아 오전에 천천히 움직이세요. 성공 운은 좋아, 직장에서 꾸준한 노력이 빛을 발합니다. **오늘의 한 줄: 아침의 조용한 시간이 하루를 차분히 만든다.**"
+                    },
+                    "1965": { // Wood produces Fire
+                        "total": 89,
+                        "categories": {"finance": 85, "emotion": 85, "energy": 80, "success": 95},
+                        "strategy": {"time": "10:00~12:00", "direction": "남서 225°", "color": "#7DCEA0", "advice": "오전에 새로운 계획을 세워 성공을 노리세요."},
+                        "fortuneText": "목(木)이 화(火)를 키우는 4월 1일, 뱀띠는 성공 운이 봄불꽃처럼 타오릅니다. 오전에 새 프로젝트를 구상하면 큰 성과로 이어질 거예요—April Fool’s 아이디어도 진짜로! 재물 운도 좋아, 봄 세일에서 득템 가능성이 높아요. 감정은 따뜻해, 친구와의 대화가 즐겁고, 에너지도 안정적이니 활동적으로 움직이세요. **오늘의 한 줄: 오전의 창의적인 농담이 하루를 빛낸다.**"
+                    },
+                    "1977": { // Fire same as Fire
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 75, "energy": 65, "success": 85},
+                        "strategy": {"time": "12:00~14:00", "direction": "북 0°", "color": "#BB8FCE", "advice": "점심때 동료와 대화로 감정 운을 높이세요."},
+                        "fortuneText": "화(火)가 강한 4월 1일, 뱀띠는 성공 운이 따뜻한 봄날을 만듭니다. 점심때 동료와 농담 나누면 좋은 아이디어가 떠올라요—April Fool’s 분위기 속에서요! 재물 운은 무난하니, 봄맞이 지출은 계획적으로. 감정은 안정적이지만, 에너지가 낮아 오후에 휴식을 추천합니다. **오늘의 한 줄: 점심 후의 웃음이 하루를 가볍게 한다.**"
+                    },
+                    "1989": { // Earth controls Fire
+                        "total": 69,
+                        "categories": {"finance": 65, "emotion": 75, "energy": 60, "success": 75},
+                        "strategy": {"time": "14:00~16:00", "direction": "동 90°", "color": "#5DADE2", "advice": "오후에 휴식을 취하며 에너지를 충전하세요."},
+                        "fortuneText": "토(土)가 화(火)를 억제하는 4월 1일, 뱀띠는 약간의 저항을 느낍니다. 재물 운이 낮아, 봄 쇼핑은 잠시 미루고 저축에 집중하세요. 감정은 따뜻해, April Fool’s 장난으로 기분이 풀리지만, 에너지가 약해 오후에 낮잠이 필요할 때예요. 성공 운은 꾸준히 유지되니 작은 일에 집중하세요. **오늘의 한 줄: 오후의 조용한 시간이 하루를 재정비한다.**"
+                    },
+                    "2001": { // Metal produces Water (Fire unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 85, "energy": 70, "success": 85},
+                        "strategy": {"time": "16:00~18:00", "direction": "남 180°", "color": "#F1948A", "advice": "저녁에 가족과 시간을 보내 감정 운을 충전하세요."},
+                        "fortuneText": "4월 1일, 뱀띠는 감정과 성공 운이 봄처럼 따뜻합니다. 저녁에 가족과 April Fool’s 장난을 나누면 웃음이 끊이지 않아요! 재물 운은 무난해, 봄맞이 소품 구입에 신중을 기하고, 에너지는 평이하니 퇴근 후 산책으로 기운을 채우세요. 성공 운도 좋아 직장에서 작은 승리를 기대할 수 있습니다. **오늘의 한 줄: 저녁의 가족 웃음이 하루를 완성한다.**"
+                    }
+                }
+            },
+            // 말띠 (Horse) - Fire
+            "horse": {
+                "years": [1954, 1966, 1978, 1990, 2002],
+                "data": {
+                    "1954": { // Wood produces Fire
+                        "total": 89,
+                        "categories": {"finance": 80, "emotion": 85, "energy": 95, "success": 85},
+                        "strategy": {"time": "08:00~10:00", "direction": "서 270°", "color": "#ABEBC6", "advice": "아침에 활동적으로 움직여 에너지를 발산하세요."},
+                        "fortuneText": "목(木)이 화(火)를 키우는 4월 1일, 말띠는 에너지와 감정 운이 봄처럼 활짝 핍니다. 아침에 조깅하며 April Fool’s 장난 아이디어를 떠올리면 하루가 유쾌해져요! 재물 운은 좋아, 봄 세일에서 소소한 득템 가능성이 높아요. 감정도 따뜻해, 친구와의 대화가 즐겁고, 성공 운도 따라주니 직장에서 적극적으로 움직이세요. **오늘의 한 줄: 아침의 활기찬 시작이 하루를 풍성하게 한다.**"
+                    },
+                    "1966": { // Fire same as Fire
+                        "total": 79,
+                        "categories": {"finance": 75, "emotion": 70, "energy": 85, "success": 80},
+                        "strategy": {"time": "10:00~12:00", "direction": "남동 135°", "color": "#F9E79F", "advice": "오전에 동료와 대화로 감정 운을 높이세요."},
+                        "fortuneText": "화(火)가 강한 4월 1일, 말띠는 에너지 운이 따뜻한 봄날을 만듭니다. 오전에 동료와 농담 나누면 April Fool’s 분위기가 업돼요! 재물 운은 무난하니, 봄맞이 지출은 신중히. 감정은 살짝 흔들릴 수 있어, 점심때 차 한 잔으로 기분을 풀고, 성공 운은 꾸준히 진행 중입니다. **오늘의 한 줄: 오전의 웃음이 하루의 피로를 덜어준다.**"
+                    },
+                    "1978": { // Earth controls Fire
+                        "total": 69,
+                        "categories": {"finance": 65, "emotion": 70, "energy": 75, "success": 65},
+                        "strategy": {"time": "12:00~14:00", "direction": "북 0°", "color": "#7FB3D5", "advice": "점심때 휴식을 취하며 에너지를 아끼세요."},
+                        "fortuneText": "토(土)가 화(火)를 억제하는 4월 1일, 말띠는 약간의 도전을 느낍니다. 재물 운이 낮아, 봄 쇼핑은 잠시 미루고 저축에 집중하세요. 감정은 무난하지만, April Fool’s 장난에 살짝 짜증날 수도—웃어넘기세요! 에너지는 괜찮아, 점심 후 산책으로 기분 전환을 추천하고, 성공 운은 평이하니 큰 변화는 피하세요. **오늘의 한 줄: 점심 후의 여유가 하루를 구한다.**"
+                    },
+                    "1990": { // Metal controls Wood (Fire unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 75, "emotion": 80, "energy": 85, "success": 75},
+                        "strategy": {"time": "14:00~16:00", "direction": "동 90°", "color": "#E59866", "advice": "오후에 친구와 약속을 잡아 감정 운을 높이세요."},
+                        "fortuneText": "4월 1일, 말띠는 감정과 에너지 운이 봄처럼 활기찹니다. 오후에 친구와 April Fool’s 장난을 나누면 웃음이 끊이지 않아요! 재물 운은 무난해, 봄나들이 비용만 챙기고, 에너지가 좋아 산책하며 꽃구경을 즐기세요. 성공 운은 평이하니, 꾸준히 하던 일에 집중하세요. **오늘의 한 줄: 오후의 유쾌한 대화가 하루를 밝게 한다.**"
+                    },
+                    "2002": { // Water controls Fire
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 70, "energy": 80, "success": 85},
+                        "strategy": {"time": "16:00~18:00", "direction": "남 180°", "color": "#F5CBA7", "advice": "저녁에 직장 일을 마무리해 성공 운을 높이세요."},
+                        "fortuneText": "수(水)가 화(火)를 억제하는 4월 1일, 말띠는 재물과 성공 운이 무난합니다. 저녁에 업무를 정리하면 작은 성과가 기쁨을 줘요—April Fool’s 장난도 살짝 곁들이세요! 감정은 살짝 흔들릴 수 있어, 가족과의 대화로 기분을 풀고, 에너지는 안정적이니 퇴근 후 산책을 추천합니다. **오늘의 한 줄: 저녁의 노력으로 하루가 빛을 발한다.**"
+                    }
+                }
+            },
+            // 양띠 (Goat) - Earth
+            "goat": {
+                "years": [1955, 1967, 1979, 1991, 2003],
+                "data": {
+                    "1955": { // Wood controls Earth
+                        "total": 69,
+                        "categories": {"finance": 60, "emotion": 80, "energy": 65, "success": 70},
+                        "strategy": {"time": "08:00~10:00", "direction": "남서 225°", "color": "#E6B0AA", "advice": "아침에 감정을 다스려 하루를 준비하세요."},
+                        "fortuneText": "목(木)이 토(土)를 억제하는 4월 1일, 양띠는 재물 운이 살짝 약합니다. 봄맞이 쇼핑은 미루고, 아침에 따뜻한 차로 마음을 진정시키세요. 감정은 따뜻해, 가족과 April Fool’s 장난을 나누면 웃음이 가득해요! 에너지는 낮아, 오전에 천천히 움직이고, 성공 운은 꾸준히 유지되니 작은 일에 집중하세요. **오늘의 한 줄: 아침의 평화로운 시간이 하루를 안정시킨다.**"
+                    },
+                    "1967": { // Fire produces Earth
+                        "total": 89,
+                        "categories": {"finance": 75, "emotion": 95, "energy": 80, "success": 85},
+                        "strategy": {"time": "10:00~12:00", "direction": "북 0°", "color": "#F5B7B1", "advice": "오전에 사랑하는 이와 대화로 감정 운을 충전하세요."},
+                        "fortuneText": "화(火)가 토(土)를 키우는 4월 1일, 양띠는 감정 운이 봄꽃처럼 만개합니다. 오전에 연인과 통화하며 April Fool’s 장난을 나누면 행복이 두 배! 재물 운은 좋아, 봄 세일에서 소소한 득템 가능성이 높아요. 에너지는 안정적이니, 가벼운 산책으로 기운을 채우고, 성공 운도 따라주니 직장에서 작은 성과를 기대하세요. **오늘의 한 줄: 오전의 따스한 대화가 하루를 풍요롭게 한다.**"
+                    },
+                    "1979": { // Earth same as Earth
+                        "total": 79,
+                        "categories": {"finance": 70, "emotion": 80, "energy": 65, "success": 75},
+                        "strategy": {"time": "12:00~14:00", "direction": "동 90°", "color": "#EC7063", "advice": "점심때 새로운 계획을 세워 성공을 준비하세요."},
+                        "fortuneText": "토(土)가 강한 4월 1일, 양띠는 감정 운이 따뜻한 봄날을 만듭니다. 점심때 동료와 농담 나누며 새 계획을 세우면 성공 운이 따라와요—April Fool’s 아이디어도 괜찮네요! 재물 운은 무난하니, 봄 소품 구입은 신중히. 에너지는 살짝 낮아, 오후에 휴식 시간을 가지세요. **오늘의 한 줄: 점심 후의 농담이 팀워크를 단단히 한다.**"
+                    },
+                    "1991": { // Metal produces Water (Earth unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 70, "emotion": 90, "energy": 70, "success": 75},
+                        "strategy": {"time": "14:00~16:00", "direction": "남 180°", "color": "#AF7AC5", "advice": "오후에 친구와 약속을 잡아 감정 운을 높이세요."},
+                        "fortuneText": "4월 1일, 양띠는 감정 운이 봄처럼 따뜻합니다. 오후에 친구와 April Fool’s 장난을 나누면 웃음이 끊이지 않아요! 재물 운은 무난해, 봄나들이 비용만 챙기고, 에너지는 평이하니 산책하며 꽃구경을 즐기세요. 성공 운은 꾸준히 진행 중이니, 작은 일에 집중하세요. **오늘의 한 줄: 오후의 유쾌한 대화가 하루를 밝게 한다.**"
+                    },
+                    "2003": { // Water controls Fire (Earth unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 75, "emotion": 85, "energy": 75, "success": 80},
+                        "strategy": {"time": "16:00~18:00", "direction": "서 270°", "color": "#A8E6CF", "advice": "저녁에 가족과 시간을 보내 감정 운을 충전하세요."},
+                        "fortuneText": "4월 1일, 양띠는 감정 운이 봄처럼 따뜻합니다. 저녁에 가족과 April Fool’s 장난을 나누면 집안이 웃음바다—행복이 가득해요! 재물 운은 무난하니, 봄맞이 소품 구입에 신중을 기하고, 에너지는 안정적이니 퇴근 후 산책을 추천합니다. 성공 운도 좋아 작은 성과를 기대하세요. **오늘의 한 줄: 저녁의 가족 웃음이 하루를 완성한다.**"
+                    }
+                }
+            },
+            // 원숭이띠 (Monkey) - Metal
+            "monkey": {
+                "years": [1956, 1968, 1980, 1992, 2004],
+                "data": {
+                    "1956": { // Fire controls Metal
+                        "total": 69,
+                        "categories": {"finance": 70, "emotion": 65, "energy": 75, "success": 70},
+                        "strategy": {"time": "08:00~10:00", "direction": "북동 45°", "color": "#FFD3B6", "advice": "아침에 예산을 점검해 재물 운을 지키세요."},
+                        "fortuneText": "화(火)가 금(金)을 억제하는 4월 1일, 원숭이띠는 재물 운이 살짝 주춤합니다. 봄 쇼핑 계획은 잠시 미루고, 아침에 지출 내역을 정리하세요. 감정은 미묘하게 흔들릴 수 있어, April Fool’s 장난에 과민 반응 말고 웃으세요. 에너지는 무난하니, 오전에 가벼운 스트레칭으로 기운을 채우고, 성공 운은 꾸준히 유지되니 작은 일에 집중하세요. **오늘의 한 줄: 아침의 차분한 시간이 하루를 구한다.**"
+                    },
+                    "1968": { // Earth produces Metal
+                        "total": 89,
+                        "categories": {"finance": 85, "emotion": 80, "energy": 85, "success": 95},
+                        "strategy": {"time": "10:00~12:00", "direction": "남서 225°", "color": "#D4A5A5", "advice": "오전에 직장 일을 추진해 성공 운을 잡으세요."},
+                        "fortuneText": "토(土)가 금(金)을 키우는 4월 1일, 원숭이띠는 성공 운이 봄처럼 활짝 핍니다. 오전에 업무를 추진하면 큰 성과로 이어질 거예요—April Fool’s 농담도 살짝 곁들이세요! 재물 운도 좋아, 봄 세일에서 득템 가능성이 높아요. 감정은 안정적이니, 동료와 웃으며 시간을 보내고, 에너지도 좋아 활동적으로 움직이세요. **오늘의 한 줄: 오전의 노력으로 하루가 빛을 발한다.**"
+                    },
+                    "1980": { // Metal same as Metal
+                        "total": 79,
+                        "categories": {"finance": 85, "emotion": 70, "energy": 75, "success": 90},
+                        "strategy": {"time": "12:00~14:00", "direction": "북 0°", "color": "#98D8D8", "advice": "점심때 동료와 계획을 세워 성공 운을 높이세요."},
+                        "fortuneText": "금(金)이 강한 4월 1일, 원숭이띠는 재물과 성공 운이 따뜻한 봄날을 만듭니다. 점심때 동료와 농담 나누며 새 계획을 세우면 좋은 결과가 따라와요—April Fool’s 분위기 속에서요! 감정은 살짝 흔들릴 수 있어, 점심 후 차 한 잔으로 기분을 풀고, 에너지는 무난하니 꾸준히 움직이세요. **오늘의 한 줄: 점심 후의 웃음이 하루를 밝게 한다.**"
+                    },
+                    "1992": { // Water produces Wood (Metal unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 75, "energy": 80, "success": 85},
+                        "strategy": {"time": "14:00~16:00", "direction": "동 90°", "color": "#F7DC6F", "advice": "오후에 새로운 아이디어를 시도해 성공을 노리세요."},
+                        "fortuneText": "4월 1일, 원숭이띠는 재물과 성공 운이 봄처럼 무난합니다. 오후에 취미나 직업 관련 아이디어를 메모하면 큰 결실로 이어질 거예요—April Fool’s 장난도 창의력 발휘의 기회! 감정은 따뜻해, 친구와의 대화가 즐겁고, 에너지도 안정적이니 산책하며 꽃구경을 즐기세요. **오늘의 한 줄: 오후의 창의적인 농담이 새로운 길을 연다.**"
+                    },
+                    "2004": { // Wood controls Earth (Metal unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 85, "emotion": 70, "energy": 85, "success": 80},
+                        "strategy": {"time": "16:00~18:00", "direction": "남 180°", "color": "#C39BD3", "advice": "저녁에 재무 목표를 점검해 안정감을 높이세요."},
+                        "fortuneText": "4월 1일, 원숭이띠는 재물과 에너지 운이 돋보입니다. 저녁에 은행 앱 확인하면 기분 좋을 소식이 있을지도—봄 쇼핑 욕구를 채우기 딱 좋아요! 감정은 살짝 불안할 수 있어, April Fool’s 장난에 휘둘리지 말고 중심을 잡으세요. 에너지가 넘쳐, 퇴근 후 조깅으로 하루를 마무리하세요. **오늘의 한 줄: 저녁의 여유로운 시간이 하루를 완성한다.**"
+                    }
+                }
+            },
+            // 닭띠 (Rooster) - Metal
+            "rooster": {
+                "years": [1957, 1969, 1981, 1993, 2005],
+                "data": {
+                    "1957": { // Fire controls Metal
+                        "total": 69,
+                        "categories": {"finance": 65, "emotion": 65, "energy": 75, "success": 70},
+                        "strategy": {"time": "08:00~10:00", "direction": "남서 225°", "color": "#F0B27A", "advice": "아침에 예산을 점검해 재물 운을 지키세요."},
+                        "fortuneText": "화(火)가 금(金)을 억제하는 4월 1일, 닭띠는 재물 운이 살짝 약합니다. 봄맞이 쇼핑은 미루고, 아침에 지출 내역을 정리하세요. 감정은 미묘하게 흔들릴 수 있어, April Fool’s 장난에 과민 반응 말고 웃으세요. 에너지는 무난하니, 오전에 가벼운 스트레칭으로 기운을 채우고, 성공 운은 꾸준히 유지되니 작은 일에 집중하세요. **오늘의 한 줄: 아침의 조용한 시간이 하루를 안정시킨다.**"
+                    },
+                    "1969": { // Earth produces Metal
+                        "total": 89,
+                        "categories": {"finance": 85, "emotion": 75, "energy": 85, "success": 95},
+                        "strategy": {"time": "10:00~12:00", "direction": "북 0°", "color": "#7DCEA0", "advice": "오전에 직장 일을 추진해 성공 운을 잡으세요."},
+                        "fortuneText": "토(土)가 금(金)을 키우는 4월 1일, 닭띠는 성공 운이 봄처럼 활짝 핍니다. 오전에 업무를 추진하면 큰 성과로 이어질 거예요—April Fool’s 농담도 살짝 곁들이세요! 재물 운도 좋아, 봄 세일에서 득템 가능성이 높아요. 감정은 안정적이니, 동료와 웃으며 시간을 보내고, 에너지도 좋아 활동적으로 움직이세요. **오늘의 한 줄: 오전의 노력으로 하루가 빛을 발한다.**"
+                    },
+                    "1981": { // Metal same as Metal
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 65, "energy": 75, "success": 90},
+                        "strategy": {"time": "12:00~14:00", "direction": "동 90°", "color": "#BB8FCE", "advice": "점심때 동료와 계획을 세워 성공 운을 높이세요."},
+                        "fortuneText": "금(金)이 강한 4월 1일, 닭띠는 성공 운이 따뜻한 봄날을 만듭니다. 점심때 동료와 농담 나누며 새 계획을 세우면 좋은 결과가 따라와요—April Fool’s 분위기 속에서요! 재물 운은 무난하니, 봄맞이 지출은 신중히. 감정은 살짝 흔들릴 수 있어, 점심 후 차 한 잔으로 기분을 풀고, 에너지는 무난하니 꾸준히 움직이세요. **오늘의 한 줄: 점심 후의 웃음이 하루를 밝게 한다.**"
+                    },
+                    "1993": { // Water produces Wood (Metal unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 75, "emotion": 70, "energy": 80, "success": 85},
+                        "strategy": {"time": "14:00~16:00", "direction": "남 180°", "color": "#5DADE2", "advice": "오후에 새로운 아이디어를 시도해 성공을 노리세요."},
+                        "fortuneText": "4월 1일, 닭띠는 에너지와 성공 운이 봄처럼 무난합니다. 오후에 취미나 직업 관련 아이디어를 메모하면 큰 결실로 이어질 거예요—April Fool’s 장난도 창의력 발휘의 기회! 재물 운은 무난해, 봄나들이 비용만 챙기고, 감정은 따뜻해 친구와의 대화가 즐겁습니다. **오늘의 한 줄: 오후의 창의적인 농담이 새로운 길을 연다.**"
+                    },
+                    "2005": { // Wood controls Earth (Metal unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 65, "energy": 85, "success": 80},
+                        "strategy": {"time": "16:00~18:00", "direction": "서 270°", "color": "#F1948A", "advice": "저녁에 재무 목표를 점검해 안정감을 높이세요."},
+                        "fortuneText": "4월 1일, 닭띠는 재물과 에너지 운이 돋보입니다. 저녁에 은행 앱 확인하면 기분 좋을 소식이 있을지도—봄 쇼핑 욕구를 채우기 딱 좋아요! 감정은 살짝 불안할 수 있어, April Fool’s 장난에 휘둘리지 말고 중심을 잡으세요. 에너지가 넘쳐, 퇴근 후 조깅으로 하루를 마무리하세요. **오늘의 한 줄: 저녁의 여유로운 시간이 하루를 완성한다.**"
+                    }
+                }
+            },
+            // 개띠 (Dog) - Earth
+            "dog": {
+                "years": [1958, 1970, 1982, 1994, 2006],
+                "data": {
+                    "1958": { // Earth same as Earth
+                        "total": 79,
+                        "categories": {"finance": 75, "emotion": 75, "energy": 70, "success": 80},
+                        "strategy": {"time": "08:00~10:00", "direction": "북동 45°", "color": "#ABEBC6", "advice": "아침에 목표를 정리해 성공 운을 다지세요."},
+                        "fortuneText": "토(土)가 강한 4월 1일, 개띠는 감정과 성공 운이 따뜻한 봄날을 만듭니다. 아침에 할 일 목록을 쓰면 하루가 순조로워요—April Fool’s 장난도 계획적으로 즐겨보세요! 재물 운은 무난하니, 봄나들이 예산을 짜보는 것도 좋겠네요. 에너지는 평이하니, 오전에 집 근처 산책으로 기운을 채우세요. **오늘의 한 줄: 아침의 차분한 시작이 하루를 빛나게 한다.**"
+                    },
+                    "1970": { // Metal produces Water (Earth unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 85, "energy": 70, "success": 75},
+                        "strategy": {"time": "10:00~12:00", "direction": "남서 225°", "color": "#F9E79F", "advice": "오전에 친구와 대화로 감정 운을 높이세요."},
+                        "fortuneText": "4월 1일, 개띠는 감정 운이 봄처럼 따뜻합니다. 오전에 친구와 통화하며 April Fool’s 장난을 나누면 기분이 업돼요! 재물 운은 무난해, 봄맞이 소품 구입에 신중을 기하고, 에너지는 평이하니 가벼운 산책으로 기운을 채우세요. 성공 운도 꾸준히 진행 중입니다. **오늘의 한 줄: 오전의 웃음소리가 하루를 밝게 한다.**"
+                    },
+                    "1982": { // Water controls Fire (Earth unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 75, "emotion": 90, "energy": 70, "success": 80},
+                        "strategy": {"time": "12:00~14:00", "direction": "북 0°", "color": "#7FB3D5", "advice": "점심때 사랑하는 이와 대화로 감정 운을 충전하세요."},
+                        "fortuneText": "4월 1일, 개띠는 감정 운이 봄꽃처럼 만개합니다. 점심때 연인과 농담 나누며 April Fool’s 분위기를 즐기면 행복이 두 배! 재물 운은 무난하니, 봄나들이 비용만 챙기고, 에너지는 평이하니 오후에 휴식 시간을 가지세요. 성공 운도 좋아 작은 성과를 기대하세요. **오늘의 한 줄: 점심 후의 따스한 대화가 하루를 풍요롭게 한다.**"
+                    },
+                    "1994": { // Wood controls Earth
+                        "total": 69,
+                        "categories": {"finance": 65, "emotion": 75, "energy": 65, "success": 70},
+                        "strategy": {"time": "14:00~16:00", "direction": "동 90°", "color": "#E59866", "advice": "오후에 휴식을 취며 에너지를 아끼세요."},
+                        "fortuneText": "목(木)이 토(土)를 억제하는 4월 1일, 개띠는 약간의 도전을 느낍니다. 재물 운이 낮아, 봄 쇼핑은 잠시 미루고 저축에 집중하세요. 감정은 따뜻해, April Fool’s 장난으로 기분이 풀리지만, 에너지가 약해 오후에 낮잠이 필요할 때예요. 성공 운은 꾸준히 유지되니 작은 일에 집중하세요. **오늘의 한 줄: 오후의 조용한 시간이 하루를 재정비한다.**"
+                    },
+                    "2006": { // Fire produces Earth
+                        "total": 89,
+                        "categories": {"finance": 80, "emotion": 90, "energy": 85, "success": 95},
+                        "strategy": {"time": "16:00~18:00", "direction": "남 180°", "color": "#F5CBA7", "advice": "저녁에 과감한 결정을 내려 성공을 잡으세요."},
+                        "fortuneText": "화(火)가 토(土)를 키우는 4월 1일, 개띠는 감정과 성공 운이 봄불꽃처럼 타오릅니다. 저녁에 새 프로젝트 결정을 하면 큰 성과로 이어질 거예요—April Fool’s 장난도 자신감 있게! 재물 운도 좋아, 봄 세일에서 득템 가능성이 높아요. 에너지가 넘쳐, 퇴근 후 조깅으로 하루를 마무리하세요. **오늘의 한 줄: 저녁의 대담한 선택이 행운을 부른다.**"
+                    }
+                }
+            },
+            // 돼지띠 (Pig) - Water
+            "pig": {
+                "years": [1959, 1971, 1983, 1995, 2007],
+                "data": {
+                    "1959": { // Earth controls Water
+                        "total": 69,
+                        "categories": {"finance": 65, "emotion": 80, "energy": 65, "success": 70},
+                        "strategy": {"time": "08:00~10:00", "direction": "서 270°", "color": "#E6B0AA", "advice": "아침에 감정을 다스려 하루를 준비하세요."},
+                        "fortuneText": "토(土)가 수(水)를 억누르는 4월 1일, 돼지띠는 재물 운이 살짝 약합니다. 봄맞이 쇼핑은 미루고, 아침에 따뜻한 차로 마음을 진정시키세요. 감정은 따뜻해, 가족과 April Fool’s 장난을 나누면 웃음이 가득해요! 에너지는 낮아, 오전에 천천히 움직이고, 성공 운은 꾸준히 유지되니 작은 일에 집중하세요. **오늘의 한 줄: 아침의 평화로운 시간이 하루를 안정시킨다.**"
+                    },
+                    "1971": { // Metal produces Water
+                        "total": 89,
+                        "categories": {"finance": 85, "emotion": 90, "energy": 85, "success": 95},
+                        "strategy": {"time": "10:00~12:00", "direction": "북동 45°", "color": "#F5B7B1", "advice": "오전에 직장 일을 추진해 성공 운을 잡으세요."},
+                        "fortuneText": "금(金)이 수(水)를 돕는 4월 1일, 돼지띠는 성공과 감정 운이 봄처럼 활짝 핍니다. 오전에 업무를 추진하면 큰 성과로 이어질 거예요—April Fool’s 농담도 살짝 곁들이세요! 재물 운도 좋아, 봄 세일에서 득템 가능성이 높아요. 감정은 따뜻해, 동료와 웃으며 시간을 보내고, 에너지도 좋아 활동적으로 움직이세요. **오늘의 한 줄: 오전의 노력으로 하루가 빛을 발한다.**"
+                    },
+                    "1983": { // Water same as Water
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 80, "energy": 70, "success": 85},
+                        "strategy": {"time": "12:00~14:00", "direction": "남서 225°", "color": "#EC7063", "advice": "점심때 동료와 대화로 감정 운을 높이세요."},
+                        "fortuneText": "수(水)가 강한 4월 1일, 돼지띠는 감정과 성공 운이 따뜻한 봄날을 만듭니다. 점심때 동료와 농담 나누며 April Fool’s 분위기를 즐기면 좋은 결과가 따라와요! 재물 운은 무난하니, 봄맞이 지출은 신중히. 에너지는 평이하니, 오후에 휴식 시간을 가지세요. **오늘의 한 줄: 점심 후의 웃음이 하루를 밝게 한다.**"
+                    },
+                    "1995": { // Wood produces Fire (Water unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 80, "emotion": 85, "energy": 70, "success": 80},
+                        "strategy": {"time": "14:00~16:00", "direction": "북 0°", "color": "#AF7AC5", "advice": "오후에 친구와 약속을 잡아 감정 운을 높이세요."},
+                        "fortuneText": "4월 1일, 돼지띠는 감정 운이 봄처럼 따뜻합니다. 오후에 친구와 April Fool’s 장난을 나누면 웃음이 끊이지 않아요! 재물 운은 무난해, 봄나들이 비용만 챙기고, 에너지는 평이하니 산책하며 꽃구경을 즐기세요. 성공 운도 좋아 작은 성과를 기대할 수 있습니다. **오늘의 한 줄: 오후의 유쾌한 대화가 하루를 밝게 한다.**"
+                    },
+                    "2007": { // Fire controls Metal (Water unaffected directly)
+                        "total": 79,
+                        "categories": {"finance": 85, "emotion": 80, "energy": 75, "success": 85},
+                        "strategy": {"time": "16:00~18:00", "direction": "동 90°", "color": "#A8E6CF", "advice": "저녁에 재무 목표를 점검해 안정감을 높이세요."},
+                        "fortuneText": "4월 1일, 돼지띠는 재물과 성공 운이 돋보입니다. 저녁에 은행 앱 확인하면 기분 좋을 소식이 있을지도—봄 쇼핑 욕구를 채우기 딱 좋아요! 감정은 따뜻해, 가족과 April Fool’s 장난을 나누면 웃음이 가득해요. 에너지는 무난하니, 퇴근 후 산책으로 하루를 마무리하세요. **오늘의 한 줄: 저녁의 여유로운 시간이 하루를 완성한다.**"
+                    }
+                }
+            }
+ 
